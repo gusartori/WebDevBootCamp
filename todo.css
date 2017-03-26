@@ -1,0 +1,23 @@
+body {
+	background: orange;
+}
+
+li{
+	border: 2px solid red;
+}
+
+#special{
+	color:yellow;
+}
+
+.highlight{
+	text-decoration: line-through;
+}
+
+* {
+	border:1px solid lightgrey;
+}
+
+li a {
+	color: red;
+}

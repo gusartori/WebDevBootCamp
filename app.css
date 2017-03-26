@@ -1,0 +1,21 @@
+li{
+			color:blue;
+			border: 1px dashed purple;
+		}
+h1{
+			color:green;
+			border-color: purple;
+			border-width: 5px;
+			border-style: solid;
+
+		}
+h4{
+	color:purple;
+	background: rgb(100,200,0);
+}
+body{
+	background: pink;
+	/*background: url(http://www.hillwoodproducts.com/wp-content/uploads/2015/03/wood1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
